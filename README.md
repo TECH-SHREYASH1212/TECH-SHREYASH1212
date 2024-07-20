@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @TECH-SHREYASH1212
-- 👀 I’m interested in CYBER SECURITY & python development , cpp , java 
-- 🌱 I’m currently learning cpp , AI & DS 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-TECH-SHREYASH1212/TECH-SHREYASH1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @TECH-SHREYASH1212,
+ I am a dedicated Cyber Security professional with a proven track record in Vulnerability Assessment and Penetration Testing (VAPT). Holding a Certified Ethical Hacker (CEH) certification, I am committed to securing digital assets and mitigating cyber threats. My expertise lies in conducting comprehensive security assessments to identify and address vulnerabilities in systems and networks. I excel in leveraging cutting-edge tools and methodologies to simulate real-world cyber attacks, providing actionable insights to enhance security posture.
+Key Skills:
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Threat Analysis & Incident Response
+- Network Security 
+- Web Application Security
+- Security Audits & Compliance
+I am passionate about staying abreast of evolving cyber threats and technologies, ensuring proactive defense strategies. Through my analytical mindset and meticulous approach, I deliver robust security solutions tailored to safeguarding critical assets.
