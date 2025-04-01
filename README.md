@@ -5,5 +5,6 @@ Key Skills:
 - Threat Analysis & Incident Response
 - Network Security 
 - Web Application Security
+- Mobile App VAPT(Android) with SAST & DAST both
 - Security Audits & Compliance
 I am passionate about staying abreast of evolving cyber threats and technologies, ensuring proactive defense strategies. Through my analytical mindset and meticulous approach, I deliver robust security solutions tailored to safeguarding critical assets.
